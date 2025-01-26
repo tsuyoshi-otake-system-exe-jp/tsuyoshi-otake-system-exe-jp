@@ -6,14 +6,7 @@ This repository contains a GitHub Action that generates a snake game animation f
 
 ## 🎮 Animation Variations
 
-### Default Theme
 ![](https://raw.githubusercontent.com/tsuyoshi-otake-system-exe-jp/tsuyoshi-otake-system-exe-jp/output/github-snake.svg)
-
-### Dark Mode
-![](https://raw.githubusercontent.com/tsuyoshi-otake-system-exe-jp/tsuyoshi-otake-system-exe-jp/output/github-snake-dark.svg)
-
-### Ocean Theme
-![](https://raw.githubusercontent.com/tsuyoshi-otake-system-exe-jp/tsuyoshi-otake-system-exe-jp/output/ocean.gif)
 
 ## 🔄 Update Frequency
 
