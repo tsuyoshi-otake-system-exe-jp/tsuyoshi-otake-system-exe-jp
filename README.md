@@ -1,2 +1,3 @@
+# 🐍 Contributions Snake
 
-![GitHub Snake Light](https://github.com/tsuyoshi-otake-system-exe-jp/tsuyoshi-otake-system-exe-jp/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/tsuyoshi-otake-system-exe-jp/tsuyoshi-otake-system-exe-jp/output/github-snake.svg)
